@@ -1,2 +1,2 @@
 # Praktikum-Algoritma-Pemrograman
-Leonni Johan - 22702310003
+Leonni Johan - 2270231003
